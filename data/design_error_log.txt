@@ -1,0 +1,5476 @@
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -OC6 <= -0.12
+  -x4 <= -0.05283
+  -x3 <= -0.1015
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OC6 <= -0.12
+  -x4 <= -0.04605
+  -x3 <= -0.1015
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Van <= -26
+  -x4 <= -0.05283
+  -x3 <= -0.4036
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Van <= -26
+  -x4 <= -0.04605
+  -x3 <= -0.4036
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -IPTG <= -140
+  -x4 <= -0.05283
+  -x3 <= -0.4408
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -IPTG <= -140
+  -x4 <= -0.04605
+  -x3 <= -0.4408
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -aTc <= -0.013
+  -x4 <= -0.05283
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -aTc <= -0.013
+  -x4 <= -0.04605
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Van <= -26
+  -x4 <= -0.05283
+  -x3 <= -0.4036
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Van <= -26
+  -x4 <= -0.04605
+  -x3 <= -0.4036
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -IPTG <= -140
+  -x4 <= -0.05283
+  -x3 <= -0.4408
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -IPTG <= -140
+  -x4 <= -0.04605
+  -x3 <= -0.4408
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -aTc <= -0.013
+  -x4 <= -0.05283
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -aTc <= -0.013
+  -x4 <= -0.04605
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -IPTG <= -140
+  -x4 <= -0.05283
+  -x3 <= -0.4408
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -IPTG <= -140
+  -x4 <= -0.04605
+  -x3 <= -0.4408
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -aTc <= -0.013
+  -x4 <= -0.05283
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -aTc <= -0.013
+  -x4 <= -0.04605
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -aTc <= -0.013
+  -x4 <= -0.05283
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -aTc <= -0.013
+  -x4 <= -0.04605
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Van <= -26
+  -x4 <= -0.05283
+  -x3 <= -0.4036
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Van <= -26
+  -x4 <= -0.04605
+  -x3 <= -0.4036
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -IPTG <= -140
+  -x4 <= -0.05283
+  -x3 <= -0.4408
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -IPTG <= -140
+  -x4 <= -0.04605
+  -x3 <= -0.4408
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -aTc <= -0.013
+  -x4 <= -0.05283
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -aTc <= -0.013
+  -x4 <= -0.04605
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -IPTG <= -140
+  -x4 <= -0.05283
+  -x3 <= -0.4408
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -IPTG <= -140
+  -x4 <= -0.04605
+  -x3 <= -0.4408
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -aTc <= -0.013
+  -x4 <= -0.05283
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -aTc <= -0.013
+  -x4 <= -0.04605
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -aTc <= -0.013
+  -x4 <= -0.05283
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -aTc <= -0.013
+  -x4 <= -0.04605
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -IPTG <= -140
+  -x4 <= -0.05283
+  -x3 <= -0.4408
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -IPTG <= -140
+  -x4 <= -0.04605
+  -x3 <= -0.4408
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -aTc <= -0.013
+  -x4 <= -0.05283
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -aTc <= -0.013
+  -x4 <= -0.04605
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -aTc <= -0.013
+  -x4 <= -0.05283
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -aTc <= -0.013
+  -x4 <= -0.04605
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -aTc <= -0.013
+  -x4 <= -0.05283
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -aTc <= -0.013
+  -x4 <= -0.04605
+  -x3 <= -0.2002
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Ara <= -37
+  -x4 <= -0.05283
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Ara <= -37
+  -x4 <= -0.04605
+  -x3 <= -0.1657
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Nar <= -95
+  -Cho <= -4100
+  -x4 <= -0.05283
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Cho <= -4100
+  -x4 <= -0.04605
+  -x3 <= -0.1836
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -DHBA <= -370
+  -Nar <= -95
+  -x4 <= -0.2462
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Sal <= -43
+  -Nar <= -95
+  -x4 <= -0.3365
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -OHC14 <= -0.43
+  -Nar <= -95
+  -x4 <= -0.1572
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+]
+using guarantees 
+[
+  -Acr <= -130
+  -Nar <= -95
+  -x4 <= -0.4885
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x3 <= -0.07
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Nar <= -95
+  -x4 <= -0.04605
+  -x3 <= -0.05283
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -DHBA <= -370
+  -x4 <= -0.04605
+  -x3 <= -0.2462
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Sal <= -43
+  -x4 <= -0.04605
+  -x3 <= -0.3365
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -OHC14 <= -0.43
+  -x4 <= -0.04605
+  -x3 <= -0.1572
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
+Could not eliminate variables ['x4', 'x3', 'y2']
+by refining the assumptions 
+[
+  -x4 <= -0.08
+]
+using guarantees 
+[
+  -Ery <= -65
+  -Acr <= -130
+  -x4 <= -0.04605
+  -x3 <= -0.4885
+]
