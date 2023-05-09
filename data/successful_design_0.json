@@ -1,0 +1,26 @@
+[
+  {
+    "name": "contract_0",
+    "type": "PolyhedralContract",
+    "data": {
+      "input_vars": [
+        "Cuma",
+        "DAPG",
+        "Van",
+        "OC6"
+      ],
+      "output_vars": [
+        "y"
+      ],
+      "assumptions": [
+        "-Cuma <= -8.9",
+        "-DAPG <= -1.7",
+        "-Van <= -26",
+        "-OC6 <= -0.12"
+      ],
+      "guarantees": [
+        "-y <= -2.05"
+      ]
+    }
+  }
+]
