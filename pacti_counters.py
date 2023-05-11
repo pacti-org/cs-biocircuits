@@ -77,11 +77,10 @@ class ContractWrapper:
         # Calculate the size of the input contracts and the result contract
         input_size1 = PolyhedralContractSize(contract=instance)
         input_size2 = PolyhedralContractSize(contract=args[0])
-        result_size = PolyhedralContractSize(contract=result_contract)
 
         # Update the min/max polyhedral contract size if necessary
-        self.min_size = min(self.min_size, input_size1, input_size2, result_size)
-        self.max_size = max(self.max_size, input_size1, input_size2, result_size)
+        self.min_size = min(self.min_size, input_size1, input_size2)
+        self.max_size = max(self.max_size, input_size1, input_size2)
 
         # Return the composed contract
         return result_contract
@@ -285,11 +284,10 @@ class CompoundContractWrapper:
         # Calculate the size of the input contracts and the result contract
         input_size1 = PolyhedralContractCompoundSize(contract=instance)
         input_size2 = PolyhedralContractCompoundSize(contract=args[0])
-        result_size = PolyhedralContractCompoundSize(contract=result_contract)
 
         # Update the min/max polyhedral contract size if necessary
-        self.min_size = min(self.min_size, input_size1, input_size2, result_size)
-        self.max_size = max(self.max_size, input_size1, input_size2, result_size)
+        self.min_size = min(self.min_size, input_size1, input_size2)
+        self.max_size = max(self.max_size, input_size1, input_size2)
 
         # Return the composed contract
         return result_contract
