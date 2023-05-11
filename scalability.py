@@ -75,13 +75,13 @@ processor_3 = PolyhedralContract.from_string(
 )
 
 from typing import Optional, Tuple
-from pacti_counters import PolyhedralContractCounts
+from pacti_counters import PactiInstrumentationData
 
 save_contracts: bool = False
 save_errors: bool = False
 
 
-def explore_combination(count, combo) -> Tuple[PolyhedralContractCounts, Optional[PolyhedralContract]]:
+def explore_combination(count, combo) -> Tuple[PactiInstrumentationData, Optional[PolyhedralContract]]:
     # For this iteration of chosen sensors to use
     # compute the contracts and store them in a list
     sys_contract = None
@@ -167,5 +167,5 @@ def explore_combination(count, combo) -> Tuple[PolyhedralContractCounts, Optiona
             [sys_contract], ["contract_" + str(count)], "data/successful_design_" + str(count) + ".json"
         )
 
-    return PolyhedralContractCounts().update_counts(), sys_contract
+    return PactiInstrumentationData().update_counts(), sys_contract
 
