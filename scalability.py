@@ -75,7 +75,7 @@ processor_3 = PolyhedralContract.from_string(
 )
 
 from typing import Optional, Tuple
-from pacti_counters import PactiInstrumentationData
+from pacti_instrumentation.pacti_counters import PactiInstrumentationData
 
 save_contracts: bool = False
 save_errors: bool = False
