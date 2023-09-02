@@ -4,7 +4,7 @@ import itertools
 import time
 import pandas as pd
 import numpy as np
-from pacti.terms.polyhedra import PolyhedralContract
+from pacti.contracts import PolyhedralIoContract
 from pacti.terms.polyhedra.polyhedra import Var
 from pacti.utils import write_contracts_to_file
 from utils.synbio_utils import create_sensor_contracts2
@@ -40,7 +40,7 @@ for sensor in sensor_names:
 
 outputs = ["x1", "x2", "x3", "x4"]
 
-processor_1 = PolyhedralContract.from_string(
+processor_1 = PolyhedralIoContract.from_strings(
     input_vars=["x1", "x2"],
     output_vars=["y1"],
     assumptions=[
@@ -51,7 +51,7 @@ processor_1 = PolyhedralContract.from_string(
         "-y1 <= -2.05",
     ],
 )
-processor_2 = PolyhedralContract.from_string(
+processor_2 = PolyhedralIoContract.from_strings(
     input_vars=["x3", "x4"],
     output_vars=["y2"],
     assumptions=[
@@ -62,7 +62,7 @@ processor_2 = PolyhedralContract.from_string(
         "-y2 <= -1.05",
     ],
 )
-processor_3 = PolyhedralContract.from_string(
+processor_3 = PolyhedralIoContract.from_strings(
     input_vars=["y1", "y2"],
     output_vars=["y"],
     assumptions=[
@@ -81,7 +81,7 @@ save_contracts: bool = False
 save_errors: bool = False
 
 
-def explore_combination(count, combo) -> Tuple[PactiInstrumentationData, Optional[PolyhedralContract]]:
+def explore_combination(count, combo) -> Tuple[PactiInstrumentationData, Optional[PolyhedralIoContract]]:
     # For this iteration of chosen sensors to use
     # compute the contracts and store them in a list
     sys_contract = None
