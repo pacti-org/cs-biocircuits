@@ -10,6 +10,7 @@ license = "BSD-3-Clause"
 dynamic = ["version"]
 dependencies = [
     "pandas>=2.0.1",
+    "Pacti @ git+https://github.com/pacti-org/pacti.git@8892ecb",
     "Pacti-instrumentation @ git+https://github.com/pacti-org/pacti-instrumentation.git@e7a77c4",
 ]
 requires-python = ">=3.8, <=3.11.1"
