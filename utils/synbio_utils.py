@@ -218,6 +218,8 @@ def display_sensor_contracts_range(
     K: float = 0.0,
     ymax_lin_max: float = 0.0,
     ymax_lin_min: float = 0.0,
+    ymax_sat_max: float = 0.0,
+    ymax_sat_min: float = 0.0,
     xlim_min: float = 0.0,
     xlim_max: float = 0.0,
     ylim_min: float = 0.0,
@@ -226,21 +228,47 @@ def display_sensor_contracts_range(
     ax: plt.Axes = None,
     **kwargs,  # allow any additional keyword arguments to be passed to the function
 ) -> plt.Axes:
-
+    print("HEERE")
     if ax is None:
         _, ax = plt.subplots()
     lw = kwargs.get("lw", 2)
     alpha = kwargs.get("alpha", 0.2)
-    slope1 = (ymax_lin_max - leak_max) / (K - start)
-    slope2 = (ymax_lin_min - leak_min) / (K - start)
-    intercept1 = leak_max - slope1 * start
-    intercept2 = leak_min - slope2 * start
+        
+    off_slope1 = (0.01*leak_max - leak_max) / (1e-3 - start)
+    off_slope2 = (0.01*leak_min - leak_min) / (1e-3 - start)
+    off_intercept1 = leak_max - off_slope1 * start
+    off_intercept2 = leak_min - off_slope2 * start
+    
+    lin_slope1 = (ymax_lin_max - yleak1) / (K - start)
+    lin_slope2 = (ymax_lin_min - yleak2) / (K - start)
+    lin_intercept1 = yleak1 - lin_slope1 * start
+    lin_intercept2 = yleak2 - lin_slope2 * start
+    
+    sat_slope1 = (ymax_lin_max - ymax_sat_max) / (K - 2*K)
+    sat_slope2 = (ymax_lin_min - ymax_sat_min) / (K - 2*K)
+    sat_intercept1 = ymax_lin_max - sat_slope1 * K
+    sat_intercept2 = ymax_lin_min - sat_slope2 * K
 
-    ax.hlines(y=leak_min, xmin=xlim_min, xmax=start, color="r",
-              lw=lw, ls="--")
-    ax.hlines(y=leak_max, xmin=xlim_min, xmax=start, color="r",
-              lw=lw, ls="--")
-    ax.fill_betweenx([leak_min, leak_max], xlim_min, start, alpha=alpha, color="red", label="OFF Region")
+    ax.plot(
+        np.linspace(1e-3, start, 2),
+        off_slope1 * np.array(np.linspace(1e-3, start, 2)) + off_intercept1,
+        color="r", lw=lw
+    )
+    ax.plot(
+        np.linspace(1e-3, start, 2),
+        off_slope2 * np.array(np.linspace(1e-3, start, 2)) + off_intercept2,
+        color="r", lw=lw
+    )
+    ax.fill_between(np.linspace(1e-3, start, 2),
+                    off_slope1 * np.array(np.linspace(1e-3, start, 2)) + off_intercept1,
+                    off_slope2 * np.array(np.linspace(1e-3, start, 2)) + off_intercept2,
+                    alpha=alpha, color='red', label="OFF Region")
+
+#     ax.hlines(y=leak_min, xmin=xlim_min, xmax=start, color="r",
+#               lw=lw, ls="--")
+#     ax.hlines(y=leak_max, xmin=xlim_min, xmax=start, color="r",
+#               lw=lw, ls="--")
+#     ax.fill_betweenx([leak_min, leak_max], xlim_min, start, alpha=alpha, color="red", label="OFF Region")
     ax.axvline(x=start, ls="dotted", color="k")
     ax.plot(
         np.linspace(start, K, 2),
@@ -257,11 +285,25 @@ def display_sensor_contracts_range(
                     slope2 * np.array(np.linspace(start, K, 2)) + intercept2,
                     alpha=alpha, color='#006400', label="Linear Region")
 
-    ax.hlines(y=ymax_lin_max, xmin=K, xmax=xlim_max,
-              color="blue", lw=lw, ls="--")
-    ax.hlines(y=ymax_lin_min, xmin=K, xmax=xlim_max,
-              color="blue", lw=lw, ls="--")
-    ax.fill_betweenx([ymax_lin_min, ymax_lin_max], K, xlim_max, alpha=alpha, color="blue", label="Saturation Region")
+    ax.plot(
+        np.linspace(K, 2*K, 2),
+        sat_slope1 * np.array(np.linspace(K, 2*K, 2)) + sat_intercept1,
+        color="blue", lw=lw
+    )
+    ax.plot(
+        np.linspace(K, 2*K, 2),
+        sat_slope2 * np.array(np.linspace(K, 2*K, 2)) + sat_intercept2,
+        color="blue", lw=lw
+    )
+    ax.fill_between(np.linspace(K, 2*K, 2),
+                    sat_slope1 * np.array(np.linspace(K, 2*K, 2)) + sat_intercept1,
+                    sat_slope2 * np.array(np.linspace(K, 2*K, 2)) + sat_intercept2,
+                    alpha=alpha, color='blue', label="OFF Region")
+#     ax.hlines(y=ymax_lin_max, xmin=K, xmax=xlim_max,
+#               color="blue", lw=lw, ls="--")
+#     ax.hlines(y=ymax_lin_min, xmin=K, xmax=xlim_max,
+#               color="blue", lw=lw, ls="--")
+#     ax.fill_betweenx([ymax_lin_min, ymax_lin_max], K, xlim_max, alpha=alpha, color="blue", label="Saturation Region")
 
     ax.axvline(x=K, ls="dotted", color="k")
     ax.set_xlabel(sensor_input, fontsize=14)
