@@ -3,7 +3,7 @@ import numpy as np
 import copy
 from typing import Union
 from pacti.iocontract import IoContract
-from pacti.terms.polyhedra import PolyhedralContract
+from pacti.contracts import PolyhedralIoContract
 
 def display_sensor_contracts(
     sensor_input: str = "u",
@@ -343,14 +343,14 @@ def create_sensor_contracts2(sensor_input="AHL", output="FP", K=0.0, yleak=0.0,
     slope2 = (ymax_lin2 - yleak2) / (K - start)
     intercept1 = yleak1 - slope1 * start
     intercept2 = yleak2 - slope2 * start
-    contract_0 = PolyhedralContract.from_string(
+    contract_0 = PolyhedralIoContract.from_strings(
         input_vars=[sensor_input],
         output_vars=[output],
         assumptions=[f"{sensor_input} <= {start}"],
         guarantees=[f"{output} <= {yleak1}",
                     f"-{output} <= {-1 * yleak2}"]
     )                
-    contract_lin = PolyhedralContract.from_string(
+    contract_lin = PolyhedralIoContract.from_strings(
         input_vars=[sensor_input],
         output_vars=[output],
         assumptions=[
@@ -362,7 +362,7 @@ def create_sensor_contracts2(sensor_input="AHL", output="FP", K=0.0, yleak=0.0,
             f"{output} - {slope2}{sensor_input} <= {1 * intercept2}"
         ]
     )
-    contract_max = PolyhedralContract.from_string(
+    contract_max = PolyhedralIoContract.from_strings(
         input_vars=[sensor_input],
         output_vars=[output],
         assumptions=[
