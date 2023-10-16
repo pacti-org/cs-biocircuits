@@ -10,10 +10,10 @@ license = "BSD-3-Clause"
 dynamic = ["version"]
 dependencies = [
     "pandas>=2.0.1",
-    "Pacti @ git+https://github.com/pacti-org/pacti.git@8892ecb",
-    "Pacti-instrumentation @ git+https://github.com/pacti-org/pacti-instrumentation.git@e7a77c4",
+    "Pacti @ git+https://github.com/pacti-org/pacti.git@28c6c18779142b993020ee108f3d14fae25c5b58",
+    "Pacti-instrumentation @ git+https://github.com/pacti-org/pacti-instrumentation.git@f313121d015b196364e4102d170c4dd4d5ec290f",
 ]
-requires-python = ">=3.8, <=3.11.1"
+requires-python = ">=3.8,<3.12"
 
 [project.scripts]
 #pacti = "pacti.cli:main"
