@@ -1,4 +1,4 @@
-from pacti.terms.polyhedra import PolyhedralContract
+from pacti.contracts import PolyhedralIoContract
 def create_sensor_contracts(sensor_input="AHL", output="FP", K=0.0, yleak=0.0,
                             start=0.0, ymax_lin=0.0, ymax_sat=0.0, std=0.0, final_K=0.0):
     """
@@ -36,7 +36,7 @@ def create_sensor_contracts(sensor_input="AHL", output="FP", K=0.0, yleak=0.0,
     sat_slope2 = (ymax_lin2 - ymax_sat2) / (K - final_K)
     sat_intercept1 = ymax_lin1 - sat_slope1 * K
     sat_intercept2 = ymax_lin2 - sat_slope2 * K
-    contract_0 = PolyhedralContract.from_string(
+    contract_0 = PolyhedralIoContract.from_strings(
         input_vars=[sensor_input],
         output_vars=[output],
         assumptions=[f"{sensor_input} <= {start}",
@@ -45,7 +45,7 @@ def create_sensor_contracts(sensor_input="AHL", output="FP", K=0.0, yleak=0.0,
         guarantees=[f"{output} - {off_slope1}{sensor_input} <= {off_intercept2}",
                     f"-{output} + {off_slope2}{sensor_input} <= {-1 * off_intercept1}"]
     )                
-    contract_lin = PolyhedralContract.from_string(
+    contract_lin = PolyhedralIoContract.from_strings(
         input_vars=[sensor_input],
         output_vars=[output],
         assumptions=[
@@ -57,7 +57,7 @@ def create_sensor_contracts(sensor_input="AHL", output="FP", K=0.0, yleak=0.0,
             f"{output} - {lin_slope2}{sensor_input} <= {1 * lin_intercept2}"
         ]
     )
-    contract_max = PolyhedralContract.from_string(
+    contract_max = PolyhedralIoContract.from_strings(
         input_vars=[sensor_input],
         output_vars=[output],
         assumptions=[
